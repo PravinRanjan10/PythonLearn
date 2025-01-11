@@ -27,7 +27,7 @@ print('created single item tuple ', type(t)) # <'class', 'tuple'>
 
 
 # accessing tuples
-t = (10,20,30,40,10)
+t = (10,20,30,40,10) # t= 10, 20, 30, 40, 10 ==>> this will also work
 
 print(t[2])  # 30
 
