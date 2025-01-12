@@ -8,6 +8,31 @@
 # 4. Union, Intersection, difference etc. supported
 # 5. Uses hashing internally. Thus faster than list
 
+# ***************************
+# Some important functions in Set in Python:
+
+"""
+    add(): Adds an element to the set.
+
+    clear(): Removes all elements from the set
+    
+    discard(): Removes an element from the set if present.
+    
+    remove(): Removes an element from the set. If the element is not present, it raises error.
+    
+    pop(): Removes and returns an arbitary set element. Raise error if the set is empty.
+    
+    union(): Returns the union of sets in a new set
+    
+    update(): Updates the set with the union of itself and others
+    
+    len(): Return the length of set.
+    
+    sorted(): Return a new sorted list from elements in the set.
+    
+    sum(): Return the sum of all elements in the set.
+"""
+
 # **********************
 
 s1 = {10, 20, 30}
